@@ -10,7 +10,7 @@ Handles user signup, authentication, and value‐selection profiles.
 
 ## 📋 Prerequisites
 
-- Python 3.11+  
+- Python 3.12+  
 - PostgreSQL (or replace `DATABASE_URL` with your DB)  
 - [.env](.env.template) configured  
 
